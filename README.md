@@ -8,6 +8,7 @@
 2. [Clustering US Census Data](https://github.com/jajawong/Data-Science/blob/main/Clustering%20US%20Census%20Data.ipynb)
 * DBSCAN
 * Kmeans
+* PCA
 3. [Product Matching](https://github.com/jajawong/Data-Science/blob/main/Product_Matching.ipynb)
 * PyTorch
 * BERT(Transformer)
