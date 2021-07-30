@@ -2,8 +2,7 @@
 
 1. [Stock Price Prediction](https://github.com/jajawong/Data-Science/blob/main/Stock%20Price%20Prediction.ipynb)
 * Time Series Modeling
-* LSTM
-* Keras
+* Keras LSTM
 * Seaborn
 2. [Clustering US Census Data](https://github.com/jajawong/Data-Science/blob/main/Clustering%20US%20Census%20Data.ipynb)
 * DBSCAN
