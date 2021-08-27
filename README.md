@@ -23,5 +23,5 @@
 * Pandas dataframe
 7. [OpenRice Web Crawler](https://github.com/jajawong/Data-Science/blob/main/OpenRice_Web_Crawler.ipynb)
 * BeautifulSoup
-9. Clinical Trial Terminations Prediction
+8. Clinical Trial Terminations Prediction
 *
