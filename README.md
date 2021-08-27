@@ -22,7 +22,7 @@
 * Random Forest
 6. [Using Python replacing MS Excel](https://github.com/jajawong/Data-Science/blob/main/Using_Python_replacing_MS_Excel.ipynb)
 * Pandas dataframe
-7. OpenRice Web Crawler
+7. [OpenRice Web Crawler](https://github.com/jajawong/Data-Science/blob/main/OpenRice_Web_Crawler.ipynb)
 * BeautifulSoup
 9. Clinical Trial Terminations Prediction
 *
