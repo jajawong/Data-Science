@@ -16,7 +16,7 @@
 * DBSCAN
 * seaborn
 * matplotlib
-5. [Prediction of helpfulness of Amazon’s video game reviews](https://github.com/jajawong/Data-Science/blob/main/Amazon%E2%80%99s%20video%20game%20reviews.ipynb)
+5. [Prediction the helpfulness of Amazon’s video game reviews](https://github.com/jajawong/Data-Science/blob/main/Amazon%E2%80%99s%20video%20game%20reviews.ipynb)
 * LDA Topic Modeling
 * Random Forest
 6. Clinical Trial Terminations Prediction
