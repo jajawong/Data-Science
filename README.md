@@ -24,4 +24,10 @@
 7. [OpenRice Web Crawler](https://github.com/jajawong/Data-Science/blob/main/OpenRice_Web_Crawler.ipynb)
 * BeautifulSoup
 8. Clinical Trial Terminations Prediction
-*
+*Preproccessing
+BOW extraction preprocessing
+Topic Extracted_Model
+RandomForest
+Keras Neural Network
+Keras Deep Neural Network
+
