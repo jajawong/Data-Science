@@ -26,7 +26,7 @@
 8. Clinical Trial Terminations Prediction
 * [Preproccessing](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Preproccessing.ipynb)
 * [BOW extraction preprocessing](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_BOW_extraction_preprocessing.ipynb)
-* [Topic Extracted_Model](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Topic_Extracted_Model_.ipynb)
+* [Topic Extracted Model](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Topic_Extracted_Model_.ipynb)
 * [RandomForest](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_RandomForest.ipynb)
 * [Keras Neural Network](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Neural_Network_Keras.ipynb)
 * [Keras Deep Neural Network](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Deep_Neural_Network_Keras.ipynb)
