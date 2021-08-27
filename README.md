@@ -19,15 +19,14 @@
 5. [Prediction of helpfulness of Amazon’s video game reviews](https://github.com/jajawong/Data-Science/blob/main/Amazon%E2%80%99s%20video%20game%20reviews.ipynb)
 * LDA Topic Modeling
 * Random Forest
-6. [Using Python replacing MS Excel](https://github.com/jajawong/Data-Science/blob/main/Using_Python_replacing_MS_Excel.ipynb)
-* Pandas dataframe
-7. [OpenRice Web Crawler](https://github.com/jajawong/Data-Science/blob/main/OpenRice_Web_Crawler.ipynb)
-* BeautifulSoup
-8. Clinical Trial Terminations Prediction
+6. Clinical Trial Terminations Prediction
 * [Preproccessing](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Preproccessing.ipynb)
 * [BOW extraction preprocessing](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_BOW_extraction_preprocessing.ipynb)
 * [Topic Extracted Model](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Topic_Extracted_Model_.ipynb)
 * [RandomForest](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_RandomForest.ipynb)
 * [Keras Neural Network](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Neural_Network_Keras.ipynb)
 * [Keras Deep Neural Network](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Deep_Neural_Network_Keras.ipynb)
-
+7. [Using Python replacing MS Excel](https://github.com/jajawong/Data-Science/blob/main/Using_Python_replacing_MS_Excel.ipynb)
+* Pandas dataframe
+8. [OpenRice Web Crawler](https://github.com/jajawong/Data-Science/blob/main/OpenRice_Web_Crawler.ipynb)
+* BeautifulSoup
