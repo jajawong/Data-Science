@@ -26,6 +26,7 @@
 * [RandomForest](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_RandomForest.ipynb)
 * [Keras Neural Network](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Neural_Network_Keras.ipynb)
 * [Keras Deep Neural Network](https://github.com/jajawong/Data-Science/blob/main/Clinical_Trial_Terminations_Prediction_Deep_Neural_Network_Keras.ipynb)
+* 
 7. [Using Python replacing MS Excel](https://github.com/jajawong/Data-Science/blob/main/Using_Python_replacing_MS_Excel.ipynb)
 * Pandas dataframe
 8. [OpenRice Web Crawler](https://github.com/jajawong/Data-Science/blob/main/OpenRice_Web_Crawler.ipynb)
