@@ -16,7 +16,10 @@
 4. [DBSCAN Clustering of Mall Customer Data](https://github.com/jajawong/Data-Science/blob/main/DBSCAN%20Clustering%20of%20Mall%20Customer%20Data.ipynb)
 *
 5. [Prediction of helpfulness of Amazon’s video game reviews](https://github.com/jajawong/Data-Science/blob/main/Amazon%E2%80%99s%20video%20game%20reviews.ipynb)
-*
+* LDA Topics Modeling
+* Random Forest
+* ROC Curve
+
 6. [Using Python replacing MS Excel](https://github.com/jajawong/Data-Science/blob/main/Using_Python_replacing_MS_Excel.ipynb)
 * Pandas dataframe
 7. Clinical Trial Terminations Prediction
